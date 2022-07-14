@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/20.1
+vulp
+!s110 1622661159
+!i10b 1
+!s100 C[GDcR28KN:Ya?0OMU8<J0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I0DlM^1UzKFAEOK295^fBH2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1622661003
+8C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/simulation/modelsim/ulp.vo
+FC:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/simulation/modelsim/ulp.vo
+!i122 0
+L0 32 18112
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1622661158.000000
+!s107 C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/simulation/modelsim/ulp.vo|
+!s90 -reportprogress|300|-work|work|C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/simulation/modelsim/ulp.vo|
+!i113 1
+o-work work
+tCvgOpt 0

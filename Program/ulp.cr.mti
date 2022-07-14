@@ -1,0 +1,42 @@
+{C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity sram64kx22
+-- Compiling architecture sram_behaviour of sram64kx22
+** Warning: C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd(61): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+-- Compiling configuration cfg_sram
+-- Loading entity sram64kx22
+-- Loading architecture sram_behaviour of sram64kx22
+
+} {} {}} {C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/testbench.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/testbench.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ulpsystem
+-- Compiling architecture main of ulpsystem
+-- Compiling entity testbench
+-- Compiling architecture testmain of testbench
+-- Compiling configuration tb_cfg
+-- Loading entity testbench
+-- Loading architecture testmain of testbench
+-- Loading entity ulpsystem
+
+} {} {}} {C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ulp
+-- Compiling architecture behaviour of ulp
+** Warning: C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd(32): (vcom-1236) Shared variables must be of a protected type.
+** Warning: C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd(38): (vcom-1236) Shared variables must be of a protected type.
+
+} {} {}}

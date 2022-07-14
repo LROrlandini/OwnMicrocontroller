@@ -1,0 +1,240 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Ccfg_sram
+esram64kx22
+asram_behaviour
+DAx4 work 10 sram64kx22 14 sram_behaviour 22 LY5CKe;P]6jFzNI]<032N0
+Z0 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z1 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DEx4 work 10 sram64kx22 0 22 P;NJO5ZEn2L2oUM:Q7d<j3
+!i122 30
+Z5 w1622400249
+Z6 dC:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme
+Z7 8C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd
+Z8 FC:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd
+l0
+L145 1
+V@PPn6KnNTfAfXoL^_7nZC1
+!s100 oLR<g62?VHLIVHj]93[lm2
+Z9 OV;C;2020.1;71
+32
+Z10 !s110 1622744465
+!i10b 0
+Z11 !s108 1622744465.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd|
+Z13 !s107 C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/sram.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Esram64kx22
+R5
+R0
+R1
+R2
+R3
+!i122 30
+R6
+R7
+R8
+l0
+L25 1
+VP;NJO5ZEn2L2oUM:Q7d<j3
+!s100 jGIDP0l5llzEd=eUK;Gc72
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Asram_behaviour
+R0
+R1
+R2
+R3
+R4
+!i122 30
+l39
+L38 105
+VLY5CKe;P]6jFzNI]<032N0
+!s100 ke0fIh2ZE0F4f24_zbF3J0
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ctb_cfg
+etestbench
+atestmain
+Z16 DEx4 work 9 ulpsystem 0 22 M95`b82U;ASg_zki6aU2B0
+DAx4 work 9 testbench 8 testmain 22 XS4=:NQg2=R0GkXWcb3SI3
+R3
+R2
+Z17 DEx4 work 9 testbench 0 22 :VJKF9[?VmfRLk`5]756A1
+!i122 31
+Z18 w1622400827
+R6
+Z19 8C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/testbench.vhd
+Z20 FC:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/testbench.vhd
+l0
+L95 1
+V?BcB]^jz5MO0jBjLZAUBV3
+!s100 d9h92;gN7_YQ<l`[4OzYO0
+R9
+32
+R10
+!i10b 0
+R11
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/testbench.vhd|
+Z22 !s107 C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/testbench.vhd|
+!i113 1
+R14
+R15
+Etestbench
+R18
+R3
+R2
+!i122 31
+R6
+R19
+R20
+l0
+L53 1
+V:VJKF9[?VmfRLk`5]756A1
+!s100 ?D6RK[ZNYh<NNCEnh__Um2
+R9
+32
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 1
+R14
+R15
+Atestmain
+R3
+R2
+R17
+!i122 31
+l67
+L56 38
+VXS4=:NQg2=R0GkXWcb3SI3
+!s100 38fU^a;@PSHZh>FRj7_7Y2
+R9
+32
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 1
+R14
+R15
+Eulp
+Z23 w1623612970
+R0
+Z24 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z25 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R3
+R2
+!i122 65
+R6
+Z26 8C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd
+Z27 FC:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd
+l0
+L18 1
+V4^G1DM3Yj0JcEQcBGVa5V1
+!s100 ]`KWm3GQk=RDE]Ek`We]V1
+R9
+32
+Z28 !s110 1623612975
+!i10b 1
+Z29 !s108 1623612975.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd|
+Z31 !s107 C:/Saxion_University/2020-2021/S2/Embedded Systems/Final/Programme/ulp.vhd|
+!i113 1
+R14
+R15
+Abehaviour
+R0
+R24
+R25
+R3
+R2
+Z32 DEx4 work 3 ulp 0 22 4^G1DM3Yj0JcEQcBGVa5V1
+!i122 65
+l40
+L29 147
+V;KJ;AEMhEod>=G>0oo4SG2
+!s100 ?TCYRZ0B=NbRSN[:32GZT3
+R9
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R14
+R15
+Eulpsystem
+R18
+R3
+R2
+!i122 31
+R6
+R19
+R20
+l0
+L5 1
+VM95`b82U;ASg_zki6aU2B0
+!s100 kLbMB3d9]j@OzDU^f=E?E0
+R9
+32
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 1
+R14
+R15
+Amain
+R3
+R2
+R16
+!i122 31
+l41
+L12 37
+V`T>cblT9E;BEbODM>Bg`43
+!s100 Y6M8m_8nPE]:_bA?NmH`82
+R9
+32
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 1
+R14
+R15
